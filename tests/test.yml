@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - roles/create-nfs-pvs-for-ocp
+    - roles/create-nfs-pvobjects-for-ocp
